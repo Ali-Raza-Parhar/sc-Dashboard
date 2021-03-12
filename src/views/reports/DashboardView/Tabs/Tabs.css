@@ -1,0 +1,10 @@
+.AppBar {
+  box-shadow: 1px 1px 6px 1px rgba(0, 0, 0, 0.2) !important;
+  border-radius: 2px;
+}
+.PrivateTabIndicator-colorPrimary-25 {
+  background-image: linear-gradient(180deg, #fbced1, #e47f87);
+  margin: 0px auto !important;
+  height: 12px !important;
+  border-radius: 60px 60px 0px 0px !important;
+}

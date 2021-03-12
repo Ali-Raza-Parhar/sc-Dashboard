@@ -1,0 +1,76 @@
+.TopFollowersHeroText {
+  margin: 0;
+  text-align: left;
+  display: inline-block;
+  width: 49%;
+  font-size: 25px;
+  color: #2e506f;
+  padding: -15px 0px;
+}
+/* .ViewAllFollowers {
+    padding: 8px 25px; 
+    border: 2px solid #000; 
+    color: #000; 
+    font-size: 11px; 
+    border-radius: 50px;
+}  */
+.MuiBox-root-29 {
+  padding: 10px 0px !important;
+}
+
+.TopFollowersGridContainers {
+  background-color: #fbced1;
+  border-radius: 14px;
+}
+.TopFollowers {
+  margin: 1px;
+  border-radius: 5px;
+  background-color: #fbced1;
+}
+.TopFollowerImage {
+  height: 50px;
+  width: 50px;
+  margin: 8px 20px;
+  vertical-align: middle;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+}
+.TopFollowersProfileTitle {
+  vertical-align: top;
+  padding: 20px 5px;
+  color: #2e506f;
+  font-size: 16px;
+}
+.TopFollowersPostLikes {
+  text-align: center;
+  vertical-align: top;
+  margin: 0px;
+  padding: 8px 0px;
+  font-size: 16px;
+}
+.TopFollowersPostLikes span {
+  color: #b94953;
+  font-size: 14px;
+}
+.TopFollowersGridContainers > div {
+  height: 45px;
+  width: 45px;
+  background-color: #fff;
+  border-radius: 50%;
+  margin: 0px auto;
+  padding: 0px;
+  position: relative;
+}
+.TopFollowersGridContainers > div > span {
+  color: #d99298;
+  position: absolute;
+  padding: 10px 16px;
+  text-align: center;
+  top: 0;
+  left: 15;
+}
+.TopFollowersCount {
+  padding: 10px 0px;
+}

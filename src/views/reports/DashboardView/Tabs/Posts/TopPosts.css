@@ -1,0 +1,38 @@
+.TopFollowersHeroText {
+  margin: 0;
+  text-align: left;
+  display: inline-block;
+  width: 49%;
+  font-size: 25px;
+  color: #2e506f;
+  padding: -15px 0px;
+}
+/* .ViewAllFollowers {
+    padding: 8px 25px; 
+    border: 2px solid #000; 
+    color: #000; 
+    font-size: 11px; 
+    border-radius: 50px;
+}  */
+
+.MuiBox-root-29 {
+  padding: 10px 0px !important;
+}
+.TopFollowersGridContainers {
+  background-color: #fbced1;
+  border-radius: 14px;
+}
+.TopFollowers {
+  border-radius: 5px;
+  background-color: #fbced1;
+}
+.TopPostImage {
+  height: 100px;
+  width: 100px;
+  margin: 20px 50px;
+  vertical-align: top;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+}
