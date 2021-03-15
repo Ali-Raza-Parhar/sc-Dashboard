@@ -5,6 +5,7 @@ import 'slick-carousel/slick/slick-theme.css';
 import Grid from '@material-ui/core/Grid';
 import { makeStyles } from '@material-ui/core/styles';
 import Profile from './Profile';
+import ProfileImg from '../../../assets/avatars/avatar_4.png';
 
 const useStyles = makeStyles(() => ({
   sliderWidth: {
@@ -63,26 +64,22 @@ function SimpleSlider() {
       <Slider {...settings} className={classes.sliderWidth}>
         <Grid item xs={12}>
           <Profile
-            imageSrc="https://homepages.cae.wisc.edu/~ece533/images/pool.png"
-            profileImg="https://homepages.cae.wisc.edu/~ece533/images/peppers.png"
+            profileImg={ProfileImg}
           />
         </Grid>
         <Grid item xs={12}>
           <Profile
-            imageSrc="https://homepages.cae.wisc.edu/~ece533/images/pool.png"
-            profileImg="https://homepages.cae.wisc.edu/~ece533/images/peppers.png"
+            profileImg={ProfileImg}
           />
         </Grid>
         <Grid item xs={12}>
           <Profile
-            imageSrc="https://homepages.cae.wisc.edu/~ece533/images/pool.png"
-            profileImg="https://homepages.cae.wisc.edu/~ece533/images/peppers.png"
+            profileImg={ProfileImg}
           />
         </Grid>
         <Grid item xs={12}>
           <Profile
-            imageSrc="https://homepages.cae.wisc.edu/~ece533/images/pool.png"
-            profileImg="https://homepages.cae.wisc.edu/~ece533/images/peppers.png"
+            profileImg={ProfileImg}
           />
         </Grid>
       </Slider>

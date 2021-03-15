@@ -7,8 +7,8 @@ import TopFollowersContent from './TopFollowersContent';
 
 function Followers({ ImgSrc }) {
   return (
-    <Grid container style={{ width: '450px' }}>
-      <Grid container style={{ padding: '5px 8px 10px' }}>
+    <Grid container style={{ width: '100%', justifyContent: 'space-evenly' }}>
+      <Grid container style={{ padding: '5px 8px 10px', justifyContent: 'space-evenly' }}>
         <Grid item md={8} className="TopFollowersHeroText">
           Top Followers
         </Grid>
@@ -28,7 +28,7 @@ function Followers({ ImgSrc }) {
           </Button>
         </Grid>
       </Grid>
-      <Grid container md={12}>
+      <Grid container md={12} style={{ justifyContent: 'space-evenly' }}>
         <TopFollowersContent
           imgSrc={ImgSrc}
           profileTitle="Hash_Code"
