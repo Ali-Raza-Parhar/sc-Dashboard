@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sc-Dashboard/static/css/main.eaaeabef.chunk.css",
+    "main.js": "/sc-Dashboard/static/js/main.4abd3963.chunk.js",
+    "main.js.map": "/sc-Dashboard/static/js/main.4abd3963.chunk.js.map",
+    "runtime-main.js": "/sc-Dashboard/static/js/runtime-main.e680ae38.js",
+    "runtime-main.js.map": "/sc-Dashboard/static/js/runtime-main.e680ae38.js.map",
+    "static/css/2.e18db3d7.chunk.css": "/sc-Dashboard/static/css/2.e18db3d7.chunk.css",
+    "static/js/2.402d81c2.chunk.js": "/sc-Dashboard/static/js/2.402d81c2.chunk.js",
+    "static/js/2.402d81c2.chunk.js.map": "/sc-Dashboard/static/js/2.402d81c2.chunk.js.map",
+    "index.html": "/sc-Dashboard/index.html",
+    "static/css/2.e18db3d7.chunk.css.map": "/sc-Dashboard/static/css/2.e18db3d7.chunk.css.map",
+    "static/css/main.eaaeabef.chunk.css.map": "/sc-Dashboard/static/css/main.eaaeabef.chunk.css.map",
+    "static/js/2.402d81c2.chunk.js.LICENSE.txt": "/sc-Dashboard/static/js/2.402d81c2.chunk.js.LICENSE.txt",
+    "static/media/avatar_2.c74b9661.png": "/sc-Dashboard/static/media/avatar_2.c74b9661.png",
+    "static/media/avatar_4.aae8fb70.png": "/sc-Dashboard/static/media/avatar_4.aae8fb70.png",
+    "static/media/slick-theme.css": "/sc-Dashboard/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e680ae38.js",
+    "static/css/2.e18db3d7.chunk.css",
+    "static/js/2.402d81c2.chunk.js",
+    "static/css/main.eaaeabef.chunk.css",
+    "static/js/main.4abd3963.chunk.js"
+  ]
+}
